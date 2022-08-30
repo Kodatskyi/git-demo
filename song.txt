@@ -1,2 +1,4 @@
 1st line
 2nd line
+some text
+more of text just for example
